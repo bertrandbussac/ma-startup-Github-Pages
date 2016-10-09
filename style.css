@@ -1,0 +1,9 @@
+body {
+	color: rgb(40,40,40);
+}
+
+.circle {
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 50%;
+}
